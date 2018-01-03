@@ -4,15 +4,15 @@ var friendsArray = [
 		name: 'Scooter',
 		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
 		scores: [
-			'1',
+			'3',
 			'5',
 			'5',
-			'1',
+			'2',
 			'5',
 			'5',
+			'4',
 			'1',
-			'1',
-			'1',
+			'2',
 			'5'
 		]
 	},
@@ -22,11 +22,11 @@ var friendsArray = [
 		scores: [
 			'2',
 			'4',
+			'4',
 			'1',
+			'4',
 			'1',
-			'1',
-			'1',
-			'1',
+			'2',
 			'2',
 			'1',
 			'5'
@@ -40,11 +40,11 @@ var friendsArray = [
 			'3',
 			'5',
 			'1',
-			'1',
+			'4',
 			'5',
 			'5',
 			'1',
-			'1',
+			'2',
 			'1'
 		]
 	},
@@ -68,15 +68,15 @@ var friendsArray = [
 		name: 'Cloe',
 		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
 		scores: [
+			'3',
 			'1',
-			'1',
+			'4',
 			'5',
 			'5',
+			'4',
+			'3',
 			'5',
-			'5',
-			'5',
-			'5',
-			'5',
+			'2',
 			'1'
 		]
 	},
@@ -132,14 +132,14 @@ var friendsArray = [
 		name: 'Kermit the Frog',
 		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
 		scores: [
+			'3',
 			'5',
 			'5',
+			'2',
 			'5',
+			'1',
 			'5',
-			'5',
-			'5',
-			'5',
-			'5',
+			'4',
 			'5',
 			'5'
 		]
@@ -148,15 +148,15 @@ var friendsArray = [
 		name: 'Elmo',
 		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
 		scores: [
+			'2',
 			'1',
+			'4',
 			'1',
+			'6',
 			'1',
+			'4',
 			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
+			'5',
 			'1'
 		]
 	}
